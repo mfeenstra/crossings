@@ -134,7 +134,6 @@ class Crossings
       adjusted(@slow_timeseries[i+1]) ]
   end
 
-
   # if the (index and adjacent points are all above the timeseries
   # returns: true/false
   # requires: timeseries index location of where we want to know
